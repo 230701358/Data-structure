@@ -1,3 +1,6 @@
+Name:Tarun C
+Roll no :230701358
+
 #include <stdio.h>
 #include <stdlib.h>
 
