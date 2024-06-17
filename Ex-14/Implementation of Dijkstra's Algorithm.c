@@ -1,3 +1,7 @@
+Name:Tarun C
+Rollno:230701358
+
+
 #include<stdio.h>
 #define inf 99999
 #define max 100
