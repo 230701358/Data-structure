@@ -1,3 +1,7 @@
+Name:Tarun C
+Rollno:230701358
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
@@ -11,6 +15,7 @@ typedef struct Node {
 
 Node* createNode(int data) {
     Node* newNode = (Node*)malloc(sizeof(Node));
+
     if (newNode == NULL) {
         printf("Memory allocation failed!\n");
         exit(1);
